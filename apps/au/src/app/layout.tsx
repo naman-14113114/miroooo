@@ -1,0 +1,121 @@
+import { BRAND_NAME } from "@store/shared";
+import type { Metadata } from "next";
+import { Fraunces, Inter, JetBrains_Mono, Playfair_Display } from "next/font/google";
+import { AnnouncementBar } from "@/components/layout/AnnouncementBar";
+import { CartMinimalFooter } from "@/components/layout/CartMinimalFooter";
+import { CartMinimalHeader } from "@/components/layout/CartMinimalHeader";
+import { Footer } from "@/components/layout/Footer";
+import { Header } from "@/components/layout/Header";
+import { RouteChrome } from "@/components/layout/RouteChrome";
+import { CartDrawer } from "@/components/cart/CartDrawer";
+import { CartProvider } from "@/components/cart/CartProvider";
+import { ClarityAnalytics } from "@/components/integrations/ClarityAnalytics";
+import { KlaviyoAnalytics } from "@/components/integrations/KlaviyoAnalytics";
+import { PageMediaPreloader } from "@/components/integrations/PageMediaPreloader";
+import { TawkToWidget } from "@/components/integrations/TawkToWidget";
+import { market } from "@/lib/market";
+import "./globals.css";
+const inter = Inter({
+    subsets: ["latin"],
+    variable: "--font-inter",
+    display: "swap",
+});
+const fraunces = Fraunces({
+    subsets: ["latin"],
+    style: ["normal", "italic"],
+    variable: "--font-fraunces",
+    display: "swap",
+});
+const jetBrains = JetBrains_Mono({
+    subsets: ["latin"],
+    variable: "--font-jetbrains",
+    display: "swap",
+});
+const playfair = Playfair_Display({
+    subsets: ["latin"],
+    style: ["normal", "italic"],
+    variable: "--font-playfair",
+    display: "swap",
+});
+export const metadata: Metadata = {
+    metadataBase: new URL(market.siteUrl),
+    title: {
+        default: `Best LED Face Mask Australia | ${BRAND_NAME} Light Therapy`,
+        template: `%s | ${BRAND_NAME}`,
+    },
+    description: "Australia LED face mask for red light therapy, blue light acne routines, anti-ageing skincare, full face and neck coverage, and salon-grade home treatments.",
+    applicationName: BRAND_NAME,
+    keywords: [
+        "Best LED Face Mask Australia",
+        "LED face mask Australia",
+        "red light therapy mask Australia",
+        "LED face mask for acne Australia",
+        "anti ageing LED mask",
+        "near infrared face mask",
+        "home light therapy mask",
+    ],
+    alternates: {
+        canonical: "/",
+        languages: {
+            "en-AU": "/",
+        },
+    },
+    robots: {
+        index: true,
+        follow: true,
+        googleBot: {
+            index: true,
+            follow: true,
+            "max-image-preview": "large",
+            "max-snippet": -1,
+            "max-video-preview": -1,
+        },
+    },
+    openGraph: {
+        siteName: BRAND_NAME,
+        type: "website",
+        url: market.siteUrl,
+        locale: "en_AU",
+        title: `Best LED Face Mask Australia | ${BRAND_NAME} Light Therapy`,
+        description: "Salon-grade LED face and neck mask for Australian skincare routines with 192 LEDs, 7 wavelengths plus 830nm near-infrared, and a launch glow kit.",
+        images: [
+            {
+                url: "/images/products/miroooo-electric-toothbrush-x2/01-miroooo-toothbrush-x2-hero.png",
+                width: 1200,
+                height: 1200,
+                alt: `${BRAND_NAME} Electric Toothbrush X2`,
+            },
+        ],
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: `Best LED Face Mask Australia | ${BRAND_NAME}`,
+        description: "192 LEDs, red and blue light therapy, near-infrared support, cordless wearability, and face plus neck coverage.",
+        images: ["/images/products/miroooo-electric-toothbrush-x2/01-miroooo-toothbrush-x2-hero.png"],
+    },
+};
+export default function RootLayout({ children, }: Readonly<{
+    children: React.ReactNode;
+}>) {
+    return (<html lang="en-AU" className={`${inter.variable} ${fraunces.variable} ${jetBrains.variable} ${playfair.variable}`} data-scroll-behavior="smooth">
+      <body>
+        <CartProvider>
+          <RouteChrome cartFooter={<CartMinimalFooter />} cartHeader={<>
+                <AnnouncementBar />
+                <CartMinimalHeader />
+              </>} defaultFooter={<Footer />} defaultHeader={<>
+                <AnnouncementBar />
+                <Header />
+              </>}>
+            {children}
+          </RouteChrome>
+          <PageMediaPreloader />
+          <CartDrawer />
+        </CartProvider>
+        <ClarityAnalytics />
+        <KlaviyoAnalytics />
+        <TawkToWidget />
+      </body>
+    </html>);
+}
+

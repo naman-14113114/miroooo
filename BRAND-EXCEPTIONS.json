@@ -1,0 +1,2963 @@
+{
+  "generatedAt": "2026-06-20T03:46:39.821Z",
+  "purpose": "Documents retained brand-bearing technical contracts. These strings are not rendered brand copy and must not be renamed without coordinated redirects or asset-reference updates.",
+  "assetFilenames": [
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/01-buudy-led-mask-front.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/01-sagging-cheeks.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/02-buudy-led-mask-side-profile.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/02-fine-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/03-buudy-led-mask-anti-ageing-mode.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/03-neck-firming.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/04-buudy-led-mask-blue-light-acne.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/04-forehead-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/05-buudy-led-mask-packaging.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/05-jawline-sculpting.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/06-buudy-led-mask-results.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/06-skin-radiance.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/07-buudy-led-mask-controller.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/07-under-eye-bags.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/08-buudy-led-mask-lifestyle-use.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/08-skin-texture.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/09-buudy-led-mask-home-spa.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/10-buudy-led-mask-dermatologist-recommended.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/11-buudy-led-mask-flexible-silicone.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/13-buudy-led-mask-starter-kit.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/14-buudy-led-mask-award-2026.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/15-buudy-led-mask-warranty.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/Cleopatra-LED-Red-Light-Mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/dermatologist-video-poster.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/O3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/premium-travel-box.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/premium-travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/skincare-ebook.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-led-mask/skincare-ebook.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/01-buudy-red-torch-main.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/02-buudy-red-torch-animation.gif",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/03-buudy-red-torch-handheld.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/04-buudy-red-torch-wavelengths.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/05-buudy-red-torch-kit.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/06-buudy-red-torch-body-relief.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/07-buudy-red-torch-closeup.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/08-buudy-red-torch-travel.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/09-buudy-red-torch-detail-wide.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/10-buudy-red-torch-wellness.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/11-buudy-red-torch-treatment.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/tab-1-compact.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/tab-2-clinical.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/tab-3-precision.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "images/products/buudy-red-torch/tab-4-rapid.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/35-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/39-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/40-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/42-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/43-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/44-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/45-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/47-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/49-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/51-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/52-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/54-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/56-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/57-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/59 (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/63-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/63a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/64-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/84-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/84a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/90-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/91-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/91.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/93-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/94-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/afterpay_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/app_pic.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/banner_collage_image.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/blue-light-therapy.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/buudy_7_wavelength.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/buudy_footer_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/buudy_led_mask_corrected_reviews.csv",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/buudy_logo_icon_transparent.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/cart_lottieflow-ecommerce-14-8-3b1e40-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/Chat-GPT-Image-May-3-2026-03-11-11-PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_05_58 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_13_32 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_19_10 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (1).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_19 PM (3).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_20 PM (4).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_22 PM (5).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_24 PM (6).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 03_48_31 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 05_41_49 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_35_03 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_38_29 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_53_13 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_03_03 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_10_21 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/Cleopatra-LED-Red-Light-Mask.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/companion-app.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/comparison-mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/current Body.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/current_body_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/Dr Dennis Gross.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/dr_denis_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/favicon.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/free_guide-v2.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/free_guide.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/free_torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/free_travel_case.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i1.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i2.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i4.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i5.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i6.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i7.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/i8.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/klarna_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-19-aa8e50-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-8-f6ede2-cart.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/nav_menu_lottieflow-menu-nav-01-614961-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O10-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O11-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O13-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O14-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O2-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O2-wb.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O3-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O4 -w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O5-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/O8-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/omnilux.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/OmniLux_Logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/payment_options.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/payment_options.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/shark.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/shark_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/store-wordmark.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/images/travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/videos/Buudy Dermatologists Video.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/videos/buudy-goddess-bg.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "uk",
+      "path": "media/products/buudy-led-mask/videos/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/01-buudy-led-mask-front.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/01-sagging-cheeks.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/02-buudy-led-mask-side-profile.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/02-fine-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/03-buudy-led-mask-anti-ageing-mode.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/03-neck-firming.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/04-buudy-led-mask-blue-light-acne.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/04-forehead-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/05-buudy-led-mask-packaging.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/05-jawline-sculpting.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/06-buudy-led-mask-results.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/06-skin-radiance.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/07-buudy-led-mask-controller.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/07-under-eye-bags.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/08-buudy-led-mask-lifestyle-use.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/08-skin-texture.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/09-buudy-led-mask-home-spa.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/10-buudy-led-mask-dermatologist-recommended.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/11-buudy-led-mask-flexible-silicone.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/13-buudy-led-mask-starter-kit.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/14-buudy-led-mask-award-2026.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/15-buudy-led-mask-warranty.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/Cleopatra-LED-Red-Light-Mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/dermatologist-video-poster.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/O3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/premium-travel-box.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/premium-travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/skincare-ebook.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-led-mask/skincare-ebook.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/01-buudy-red-torch-main.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/02-buudy-red-torch-animation.gif",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/03-buudy-red-torch-handheld.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/04-buudy-red-torch-wavelengths.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/05-buudy-red-torch-kit.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/06-buudy-red-torch-body-relief.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/07-buudy-red-torch-closeup.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/08-buudy-red-torch-travel.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/09-buudy-red-torch-detail-wide.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/10-buudy-red-torch-wellness.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/11-buudy-red-torch-treatment.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/tab-1-compact.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/tab-2-clinical.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/tab-3-precision.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "images/products/buudy-red-torch/tab-4-rapid.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/35-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/39-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/40-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/42-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/43-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/44-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/45-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/47-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/49-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/51-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/52-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/54-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/56-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/57-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/59 (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/63-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/63a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/64-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/84-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/84a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/90-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/91-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/91.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/93-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/94-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/afterpay_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/app_pic.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/banner_collage_image.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/blue-light-therapy.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/buudy_7_wavelength.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/buudy_footer_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/buudy_led_mask_corrected_reviews.csv",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/buudy_logo_icon_transparent.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/cart_lottieflow-ecommerce-14-8-3b1e40-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/Chat-GPT-Image-May-3-2026-03-11-11-PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_05_58 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_13_32 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_19_10 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (1).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_19 PM (3).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_20 PM (4).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_22 PM (5).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_24 PM (6).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 03_48_31 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 05_41_49 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_35_03 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_38_29 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_53_13 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_03_03 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_10_21 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/Cleopatra-LED-Red-Light-Mask.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/companion-app.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/comparison-mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/current Body.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/current_body_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/Dr Dennis Gross.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/dr_denis_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/favicon.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/free_guide-v2.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/free_guide.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/free_torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/free_travel_case.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i1.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i2.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i4.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i5.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i6.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i7.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/i8.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/klarna_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-19-aa8e50-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-8-f6ede2-cart.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/nav_menu_lottieflow-menu-nav-01-614961-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O10-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O11-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O13-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O14-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O2-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O2-wb.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O3-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O4 -w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O5-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/O8-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/omnilux.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/OmniLux_Logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/payment_options.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/payment_options.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/shark_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/store-wordmark.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/images/travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/videos/Buudy Dermatologists Video.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/videos/buudy-goddess-bg.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "us",
+      "path": "media/products/buudy-led-mask/videos/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/01-buudy-led-mask-front.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/01-sagging-cheeks.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/02-buudy-led-mask-side-profile.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/02-fine-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/03-buudy-led-mask-anti-ageing-mode.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/03-neck-firming.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/04-buudy-led-mask-blue-light-acne.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/04-forehead-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/05-buudy-led-mask-packaging.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/05-jawline-sculpting.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/06-buudy-led-mask-results.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/06-skin-radiance.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/07-buudy-led-mask-controller.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/07-under-eye-bags.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/08-buudy-led-mask-lifestyle-use.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/08-skin-texture.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/09-buudy-led-mask-home-spa.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/10-buudy-led-mask-dermatologist-recommended.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/11-buudy-led-mask-flexible-silicone.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/13-buudy-led-mask-starter-kit.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/14-buudy-led-mask-award-2026.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/15-buudy-led-mask-warranty.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/Cleopatra-LED-Red-Light-Mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/dermatologist-video-poster.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/O3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/premium-travel-box.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/premium-travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/skincare-ebook.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-led-mask/skincare-ebook.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/01-buudy-red-torch-main.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/02-buudy-red-torch-animation.gif",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/03-buudy-red-torch-handheld.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/04-buudy-red-torch-wavelengths.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/05-buudy-red-torch-kit.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/06-buudy-red-torch-body-relief.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/07-buudy-red-torch-closeup.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/08-buudy-red-torch-travel.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/09-buudy-red-torch-detail-wide.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/10-buudy-red-torch-wellness.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/11-buudy-red-torch-treatment.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/tab-1-compact.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/tab-2-clinical.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/tab-3-precision.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "images/products/buudy-red-torch/tab-4-rapid.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/35-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/39-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/40-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/42-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/43-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/44-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/45-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/47-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/49-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/51-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/52-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/54-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/56-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/57-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/59 (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/63-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/63a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/64-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/84-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/84a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/90-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/91-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/91.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/93-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/94-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/afterpay_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/app_pic.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/banner_collage_image.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/blue-light-therapy.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/buudy_7_wavelength.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/buudy_footer_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/buudy_led_mask_corrected_reviews.csv",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/buudy_logo_icon_transparent.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/cart_lottieflow-ecommerce-14-8-3b1e40-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/Chat-GPT-Image-May-3-2026-03-11-11-PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_05_58 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_13_32 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_19_10 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (1).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_19 PM (3).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_20 PM (4).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_22 PM (5).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_24 PM (6).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 03_48_31 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 05_41_49 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_35_03 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_38_29 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_53_13 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_03_03 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_10_21 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/Cleopatra-LED-Red-Light-Mask.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/companion-app.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/comparison-mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/current Body.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/current_body_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/Dr Dennis Gross.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/dr_denis_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/favicon.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/free_guide-v2.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/free_guide.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/free_torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/free_travel_case.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i1.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i2.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i4.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i5.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i6.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i7.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/i8.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/klarna_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-19-aa8e50-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-8-f6ede2-cart.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/nav_menu_lottieflow-menu-nav-01-614961-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O10-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O11-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O13-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O14-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O2-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O2-wb.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O3-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O4 -w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O5-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/O8-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/omnilux.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/OmniLux_Logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/payment_options.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/payment_options.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/shark.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/shark_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/store-wordmark.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/images/travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/videos/Buudy Dermatologists Video.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/videos/buudy-goddess-bg.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "ca",
+      "path": "media/products/buudy-led-mask/videos/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/01-buudy-led-mask-front.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/01-sagging-cheeks.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/02-buudy-led-mask-side-profile.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/02-fine-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/03-buudy-led-mask-anti-ageing-mode.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/03-neck-firming.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/04-buudy-led-mask-blue-light-acne.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/04-forehead-lines.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/05-buudy-led-mask-packaging.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/05-jawline-sculpting.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/06-buudy-led-mask-results.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/06-skin-radiance.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/07-buudy-led-mask-controller.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/07-under-eye-bags.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/08-buudy-led-mask-lifestyle-use.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/08-skin-texture.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/09-buudy-led-mask-home-spa.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/10-buudy-led-mask-dermatologist-recommended.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/11-buudy-led-mask-flexible-silicone.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/13-buudy-led-mask-starter-kit.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/14-buudy-led-mask-award-2026.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/15-buudy-led-mask-warranty.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/buudy-led-torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/Cleopatra-LED-Red-Light-Mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/dermatologist-video-poster.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/O3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/premium-travel-box.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/premium-travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/skincare-ebook.jpg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-led-mask/skincare-ebook.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/01-buudy-red-torch-main.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/02-buudy-red-torch-animation.gif",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/03-buudy-red-torch-handheld.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/04-buudy-red-torch-wavelengths.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/05-buudy-red-torch-kit.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/06-buudy-red-torch-body-relief.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/07-buudy-red-torch-closeup.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/08-buudy-red-torch-travel.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/09-buudy-red-torch-detail-wide.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/10-buudy-red-torch-wellness.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/11-buudy-red-torch-treatment.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/tab-1-compact.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/tab-2-clinical.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/tab-3-precision.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "images/products/buudy-red-torch/tab-4-rapid.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/35-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/39-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/40-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/42-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/43-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/44-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/45-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/47-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/49-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/51-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/52-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/54-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/56-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/57-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/59 (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/63-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/63a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/64-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/84-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/84a.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/90-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/91-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/91.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/93-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/94-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/afterpay_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/app_pic.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/banner_collage_image.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/blue-light-therapy.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/buudy_7_wavelength.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/buudy_footer_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/buudy_led_mask_corrected_reviews.csv",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/buudy_logo_icon_transparent.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/buudy_purple.jpeg",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/cart_lottieflow-ecommerce-14-8-3b1e40-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/Chat-GPT-Image-May-3-2026-03-11-11-PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_05_58 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_13_32 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image Jun 1, 2026, 10_19_10 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (1).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_17 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_19 PM (3).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_20 PM (4).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_22 PM (5).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 30, 2026, 05_13_24 PM (6).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 03_48_31 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 05_41_49 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_35_03 PM (2).png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_38_29 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 11_53_13 PM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_03_03 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/ChatGPT Image May 31, 2026, 12_10_21 AM.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/Cleopatra-LED-Red-Light-Mask.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/companion-app.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/comparison-mask.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/current Body.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/current_body_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/Dr Dennis Gross.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/dr_denis_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/favicon.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/free_guide-v2.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/free_guide.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/free_torch.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/free_travel_case.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i1.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i2.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i3.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i4.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i5.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i6.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i7.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/i8.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/klarna_badge.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-19-aa8e50-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/lottieflow-ecommerce-14-8-f6ede2-cart.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/nav_menu_lottieflow-menu-nav-01-614961-easey.json",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O10-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O11-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O13-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O14-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O2-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O2-wb.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O3-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O4 -w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O5-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/O8-w.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/omnilux.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/OmniLux_Logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/payment_options.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/payment_options.webp",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/shark.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/shark_logo.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/store-wordmark.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/images/travel-box.png",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/videos/7 colors muted.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/videos/Buudy Dermatologists Video.webm",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/videos/buudy-goddess-bg.mp4",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    },
+    {
+      "market": "au",
+      "path": "media/products/buudy-led-mask/videos/README.md",
+      "reason": "Filename and/or directory retained verbatim to preserve existing media references and byte parity."
+    }
+  ],
+  "publicRouteContracts": [
+    "/products/buudy-led-mask",
+    "/products/buudy-led-mask-2",
+    "/pages/buudy-led-torch"
+  ],
+  "stableDataContracts": [
+    "product id/handle: buudy-led-mask",
+    "product id/asset folder: buudy-red-torch",
+    "gift id/route: buudy-led-torch",
+    "review files: buudy-led-mask-reviews.json and buudy-red-torch-reviews.json",
+    "existing review IDs and productHandle values"
+  ],
+  "sharedContactDetailsPreservedByRequirement": [
+    "support@buudy.com",
+    "https://www.instagram.com/buudy_com",
+    "https://www.youtube.com/@buudy-com",
+    "existing postal addresses and telephone numbers"
+  ],
+  "mediaParity": {
+    "comparedFiles": 663,
+    "hashMismatches": 0
+  }
+}
