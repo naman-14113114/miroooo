@@ -58,7 +58,7 @@ export type Product = {
   keyBenefits?: string[];
   differentiators?: string[];
   faqs: FAQItem[];
-  wavelengths?: any[];
+  wavelengths?: unknown[];
   badges: string[];
 };
 

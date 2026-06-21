@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, CheckCircle2, ShieldCheck, Star, Zap } from "lucide-react";
-import { storeMask } from "@/data/products";
+import { storeToothbrush } from "@/data/products";
 import { ledMaskSeoFaqs } from "@/data/seoFaqs";
 import { breadcrumbJsonLd, guidePageJsonLd, organizationJsonLd, productJsonLd, websiteJsonLd, } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
@@ -43,7 +43,7 @@ const comparisonRows = [
     ["Key routines", "Anti-ageing, breakout-prone skin, uneven tone, radiance"],
     ["Coverage", "Full face and neck"],
     ["Use style", "Cordless, rechargeable, hands-free, tap control"],
-    ["US offer", `${formatMoney(storeMask.priceCents, storeMask.currency)} launch price with free glow kit`],
+    ["US offer", `${formatMoney(storeToothbrush.priceCents, storeToothbrush.currency)} launch price with free glow kit`],
     ["Guarantee", "90-day money back guarantee"],
 ];
 export const metadata: Metadata = {
@@ -85,7 +85,7 @@ export default function BestLedFaceMaskUkPage() {
     const jsonLd = [
         organizationJsonLd(),
         websiteJsonLd(),
-        productJsonLd(storeMask),
+        productJsonLd(storeToothbrush),
         breadcrumbJsonLd([
             { name: "Home", url: "/" },
             { name: "Best LED Face Mask US", url: "/pages/best-led-face-mask-US" },
@@ -153,7 +153,7 @@ export default function BestLedFaceMaskUkPage() {
               ${BRAND_NAME} is designed for that exact brief: 192 LEDs, 7 wavelengths
               plus 830nm near-infrared, full face and neck coverage, cordless
               wearability, and a launch bundle at`}{" "}
-              {formatMoney(storeMask.priceCents, storeMask.currency)}.
+              {formatMoney(storeToothbrush.priceCents, storeToothbrush.currency)}.
             </p>
           </div>
 

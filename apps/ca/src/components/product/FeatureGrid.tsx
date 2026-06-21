@@ -18,7 +18,7 @@ export function FeatureGrid() {
     return (<section className="store-section border-y border-[var(--border)] bg-[rgba(241,223,210,.42)] md: md: py-14 md:py-24">
       <div className="store-wrap">
         <SectionHeading eyebrow={`Why ${BRAND_NAME}`} title={<>
-              What makes our mask{" "}
+              What makes our toothbrush{" "}
               <em className="store-italic text-[var(--gold)]">unique</em>?
             </>}/>
 

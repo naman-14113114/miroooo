@@ -18,6 +18,8 @@ import {
   Bandage,
   Umbrella,
   Droplets,
+  Zap,
+  Settings2,
 } from "lucide-react";
 import type { Product } from "@/data/products";
 import { market } from "@/lib/market";
@@ -161,7 +163,7 @@ export function GiftBundle({ product }: { product: Product }) {
             className="hidden sm:block shrink-0 text-[var(--gold)]"
           />
           <span className="whitespace-nowrap store-display text-[8px] sm:text-[9.5px] font-bold uppercase tracking-[0.02em] sm:tracking-[0.02em] text-[var(--plum)]">
-            90-Day Returns
+            30-Day Returns
           </span>
         </span>
         <span className="inline-flex items-center gap-1 sm:gap-1 rounded-full border border-[rgba(58,31,61,.15)] bg-[var(--card)] px-1.5 sm:px-2 py-1 sm:py-1">
@@ -171,7 +173,7 @@ export function GiftBundle({ product }: { product: Product }) {
             className="hidden sm:block shrink-0 text-[var(--gold)]"
           />
           <span className="whitespace-nowrap store-display text-[8px] sm:text-[9.5px] font-bold uppercase tracking-[0.02em] sm:tracking-[0.02em] text-[var(--plum)]">
-            Dermatologist Approved
+            Dentist Approved
           </span>
         </span>
       </div>
@@ -257,37 +259,47 @@ export function GiftBundle({ product }: { product: Product }) {
         </span>
       </Button>
 
-      {/* Benefits Grid Row (Mask Only) */}
+      {/* Benefits Grid Row (Toothbrush Only) */}
       {product.id === "miroooo-electric-toothbrush-x2" && (
         <div className="mt-8 grid grid-cols-4 gap-2 border-b border-[rgba(58,31,61,.12)] pb-8 text-center">
           <div className="flex flex-col items-center gap-2">
-            <Image src="/media/products/miroooo-electric-toothbrush-x2/images/i5.png" alt="Full-Face & Neck Coverage" width={60} height={60} className="object-contain" />
+            <span className="grid h-[60px] w-[60px] place-items-center rounded-full bg-[rgba(184,149,86,.12)] text-[var(--gold)]">
+              <Zap size={28} strokeWidth={1.5} />
+            </span>
             <p className="store-display text-[10px] font-bold leading-tight text-[var(--plum-soft)] tracking-wider uppercase">
-              Full-Face &<br />
-              Neck Coverage
-            </p>
-          </div>
-          <div className="flex flex-col items-center gap-2">
-            <Image src="/media/products/miroooo-electric-toothbrush-x2/images/i6.png" alt="Wireless & Rechargeable" width={60} height={60} className="object-contain" />
-            <p className="store-display text-[10px] font-bold leading-tight text-[var(--plum-soft)] tracking-wider uppercase">
-              Wireless &<br />
-              Rechargeable
-            </p>
-          </div>
-          <div className="flex flex-col items-center gap-2">
-            <Image src="/media/products/miroooo-electric-toothbrush-x2/images/i7.png" alt="90 Days Money Back Guarantee" width={60} height={60} className="object-contain" />
-            <p className="store-display text-[10px] font-bold leading-tight text-[var(--plum-soft)] tracking-wider uppercase">
-              90 Days Money
+              32,000 VPM
               <br />
-              Back Guarantee
+              Sonic Power
             </p>
           </div>
           <div className="flex flex-col items-center gap-2">
-            <Image src="/media/products/miroooo-electric-toothbrush-x2/images/i8.png" alt="Science-Backed Light" width={60} height={60} className="object-contain" />
+            <span className="grid h-[60px] w-[60px] place-items-center rounded-full bg-[rgba(184,149,86,.12)] text-[var(--gold)]">
+              <BatteryCharging size={28} strokeWidth={1.5} />
+            </span>
             <p className="store-display text-[10px] font-bold leading-tight text-[var(--plum-soft)] tracking-wider uppercase">
-              Science-Backed
+              60-Day
               <br />
-              Light
+              Battery
+            </p>
+          </div>
+          <div className="flex flex-col items-center gap-2">
+            <span className="grid h-[60px] w-[60px] place-items-center rounded-full bg-[rgba(184,149,86,.12)] text-[var(--gold)]">
+              <Droplets size={28} strokeWidth={1.5} />
+            </span>
+            <p className="store-display text-[10px] font-bold leading-tight text-[var(--plum-soft)] tracking-wider uppercase">
+              IPX7
+              <br />
+              Waterproof
+            </p>
+          </div>
+          <div className="flex flex-col items-center gap-2">
+            <span className="grid h-[60px] w-[60px] place-items-center rounded-full bg-[rgba(184,149,86,.12)] text-[var(--gold)]">
+              <Settings2 size={28} strokeWidth={1.5} />
+            </span>
+            <p className="store-display text-[10px] font-bold leading-tight text-[var(--plum-soft)] tracking-wider uppercase">
+              3 Brushing
+              <br />
+              Modes
             </p>
           </div>
         </div>
@@ -350,11 +362,11 @@ export function GiftBundle({ product }: { product: Product }) {
         >
           <p className="store-eyebrow">{product.promoLabel}</p>
           <p className="store-display mt-2 text-2xl text-[var(--plum)]">
-            60% off, free shipping, and a rechargeable wellness kit.
+            Launch offer: free shipping and a premium oral care kit.
           </p>
           <p className="mt-3 text-sm leading-6 text-[var(--muted)]">
-            Includes the torch, rechargeable battery, charger, USB cable,
-            glasses, and user manual for a complete targeted light therapy
+            Includes the Miroooo X2 toothbrush, 2 premium brush heads, travel
+            case, USB-C cable, and user manual for a complete sonic oral care
             routine.
           </p>
         </section>

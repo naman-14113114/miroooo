@@ -84,8 +84,8 @@ function TechnologySpotlight() {
 function HomeFeatureGrid() {
     return (<section className="store-section bg-[var(--cream)] py-24">
       <div className="store-wrap">
-        <SectionHeading eyebrow={`Why ${BRAND_NAME}`} title={<>
-              Sonic power that reaches where <em className="store-italic">details</em>.
+          <SectionHeading eyebrow={`Why ${BRAND_NAME}`} title={<>
+              Sonic power that reaches where bristles <em className="store-italic">can&apos;t</em>.
             </>} copy="32,000 sonic vibrations, 3 customizable modes, and 60-day battery life make the daily brushing ritual feel effortless while still feeling complete."/>
         <div className="mt-12 grid gap-4 md:grid-cols-3">
           {homeFeatureCards.map((feature) => (<article className="overflow-hidden rounded-[18px] border border-[var(--border)] bg-[var(--card)]" key={feature.title}>

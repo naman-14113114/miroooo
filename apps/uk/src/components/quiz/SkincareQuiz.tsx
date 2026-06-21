@@ -2,11 +2,11 @@
 import { BRAND_NAME, BRAND_NAME_LOWER } from "@store/shared";
 import Link from "next/link";
 import { ArrowLeft, ArrowRight, Check, ClipboardCheck, RotateCcw, ShieldAlert, Sparkles, } from "lucide-react";
-import { emptyQuizAnswers, oral careQuizQuestions, type QuizAnswers, type QuizQuestion, type QuizResult, } from "@/data/oral careQuiz";
-import { buildSkincareQuizResult } from "@/lib/oral careQuiz";
+import { emptyQuizAnswers, skincareQuizQuestions, type QuizAnswers, type QuizQuestion, type QuizResult, } from "@/data/skincareQuiz";
+import { buildSkincareQuizResult } from "@/lib/skincareQuiz";
 import { Button, cn } from "@/components/ui/Button";
 import { useEffect, useMemo, useRef, useState } from "react";
-const STORAGE_KEY = `${BRAND_NAME_LOWER}:oral care-quiz:v1`;
+const STORAGE_KEY = `${BRAND_NAME_LOWER}:skincare-quiz:v1`;
 type QuizStage = "intro" | "questions" | "analyzing" | "results";
 type SavedQuiz = {
     stage: Exclude<QuizStage, "intro" | "analyzing">;
@@ -36,7 +36,7 @@ function isSavedQuiz(value: unknown): value is SavedQuiz {
     return ((saved.stage === "questions" || saved.stage === "results") &&
         typeof saved.questionIndex === "number" &&
         saved.questionIndex >= 0 &&
-        saved.questionIndex < oral careQuizQuestions.length &&
+        saved.questionIndex < skincareQuizQuestions.length &&
         Boolean(saved.answers) &&
         Array.isArray(saved.answers?.concern) &&
         Array.isArray(saved.answers?.eyes) &&
@@ -59,7 +59,7 @@ export function SkincareQuiz() {
     const [storageReady, setStorageReady] = useState(false);
     const analysisTimer = useRef<number | null>(null);
     const quizPanel = useRef<HTMLDivElement>(null);
-    const currentQuestion = oral careQuizQuestions[questionIndex];
+    const currentQuestion = skincareQuizQuestions[questionIndex];
     const result = useMemo<QuizResult | null>(() => (stage === "results" ? buildSkincareQuizResult(answers) : null), [answers, stage]);
     useEffect(() => {
         let storedQuiz: SavedQuiz | null = null;
@@ -108,7 +108,7 @@ export function SkincareQuiz() {
         setAnswers(cloneEmptyAnswers());
         setQuestionIndex(0);
         setStage("questions");
-        trackQuizEvent("oral care_quiz_started");
+        trackQuizEvent("skincare_quiz_started");
         scrollToQuizPanel();
     }
     function resumeQuiz() {
@@ -119,7 +119,7 @@ export function SkincareQuiz() {
         setQuestionIndex(savedQuiz.questionIndex);
         setStage(savedQuiz.stage);
         setSavedQuiz(null);
-        trackQuizEvent("oral care_quiz_resumed");
+        trackQuizEvent("skincare_quiz_resumed");
         scrollToQuizPanel();
     }
     function resetQuiz() {
@@ -128,7 +128,7 @@ export function SkincareQuiz() {
         setAnswers(cloneEmptyAnswers());
         setQuestionIndex(0);
         setStage("intro");
-        trackQuizEvent("oral care_quiz_restarted");
+        trackQuizEvent("skincare_quiz_restarted");
         scrollToQuizPanel();
     }
     function scrollToQuizPanel() {
@@ -172,13 +172,13 @@ export function SkincareQuiz() {
         const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
         analysisTimer.current = window.setTimeout(() => {
             setStage("results");
-            trackQuizEvent("oral care_quiz_result_viewed");
+            trackQuizEvent("skincare_quiz_result_viewed");
             scrollToQuizPanel();
         }, reduceMotion ? 10 : 800);
     }
     function continueQuiz() {
-        trackQuizEvent(`oral care_quiz_step_completed_${String(questionIndex + 1).padStart(2, "0")}`);
-        if (questionIndex === oral careQuizQuestions.length - 1) {
+        trackQuizEvent(`skincare_quiz_step_completed_${String(questionIndex + 1).padStart(2, "0")}`);
+        if (questionIndex === skincareQuizQuestions.length - 1) {
             showResults();
             return;
         }
@@ -250,19 +250,19 @@ function QuizQuestionStep({ answers, currentQuestion, onBack, onContinue, onRese
     questionIndex: number;
 }) {
     const answer = getQuestionAnswer(currentQuestion, answers);
-    const progress = ((questionIndex + 1) / oral careQuizQuestions.length) * 100;
+    const progress = ((questionIndex + 1) / skincareQuizQuestions.length) * 100;
     return (<div>
       <div className="flex items-center justify-between gap-4">
         <p className="store-mono text-[var(--gold)]">
           Step {String(questionIndex + 1).padStart(2, "0")} /{" "}
-          {String(oral careQuizQuestions.length).padStart(2, "0")}
+          {String(skincareQuizQuestions.length).padStart(2, "0")}
         </p>
         <button className="inline-flex items-center gap-2 text-xs font-semibold text-[var(--muted)] transition hover:text-[var(--plum)] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--gold)]" onClick={onReset} type="button">
           <RotateCcw size={14}/>
           Start over
         </button>
       </div>
-      <div aria-label={`Question ${questionIndex + 1} of ${oral careQuizQuestions.length}`} aria-live="polite" className="mt-4 h-1.5 overflow-hidden rounded-full bg-[rgba(58,31,61,.09)]" role="progressbar" aria-valuemax={oral careQuizQuestions.length} aria-valuemin={1} aria-valuenow={questionIndex + 1}>
+      <div aria-label={`Question ${questionIndex + 1} of ${skincareQuizQuestions.length}`} aria-live="polite" className="mt-4 h-1.5 overflow-hidden rounded-full bg-[rgba(58,31,61,.09)]" role="progressbar" aria-valuemax={skincareQuizQuestions.length} aria-valuemin={1} aria-valuenow={questionIndex + 1}>
         <div className="h-full rounded-full bg-[var(--gold)] transition-[width] duration-500 ease-out" style={{ width: `${progress}%` }}/>
       </div>
 
@@ -308,7 +308,7 @@ function QuizQuestionStep({ answers, currentQuestion, onBack, onContinue, onRese
           Back
         </Button>
         <Button disabled={!isQuestionAnswered(currentQuestion, answers)} onClick={onContinue}>
-          {questionIndex === oral careQuizQuestions.length - 1
+          {questionIndex === skincareQuizQuestions.length - 1
             ? "Generate routine"
             : "Continue"}
           <ArrowRight size={16}/>
@@ -400,7 +400,7 @@ function QuizResults({ onReset, result, }: {
           Get the 7-in-1 clinical tool you need for step 02.
         </p>
         <Button asChild className="mt-5">
-          <Link href="/products/miroooo-electric-toothbrush-x2" onClick={() => trackQuizEvent("oral_care_quiz_toothbrush_cta_clicked")}>{`
+          <Link href="/products/miroooo-electric-toothbrush-x2" onClick={() => trackQuizEvent("skincare_quiz_toothbrush_cta_clicked")}>{`
             Shop the ${BRAND_NAME} Mask
             `}<ArrowRight size={16}/>
           </Link>

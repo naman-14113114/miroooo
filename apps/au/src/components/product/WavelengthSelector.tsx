@@ -5,7 +5,7 @@ import { wavelengths as modes } from "@/data/productSections";
 import { productMediaAsset } from "@/lib/media";
 
 
-export function WavelenzgthSelector() {
+export function WavelengthSelector() {
   const [active, setActive] = useState(
     modes.find((wavelength) => wavelength.name === "Standard") ?? modes[0],
   );
@@ -18,15 +18,15 @@ export function WavelenzgthSelector() {
       />
       <div className="store-wrap relative z-10">
         <div className="max-w-full lg:max-w-5xl">
-          <p className="store-mono text-[var(--gold)]">Spectrum</p>
+          <p className="store-mono text-[var(--gold)]">Modes</p>
           <h2 className="store-display mt-3 text-[2.5rem] leading-[1.06] text-[var(--cream)] md:text-6xl">
-            Change <em className="store-italic">7 light modes</em> with a tap.
+            Change <em className="store-italic">3 brushing modes</em> with a tap.
           </h2>
         </div>
 
         <div className="mt-4 grid items-center gap-4 md:mt-6 md:gap-8 lg:grid-cols-[1fr_1.2fr]">
           <div className="relative mx-auto flex aspect-square w-full max-w-[360px] items-center justify-center">
-            {/* Soft, beautiful radial glow behind the mask */}
+            {/* Soft radial glow behind the product */}
             <div
               className="absolute inset-0 rounded-full opacity-60 blur-xl transition duration-700"
               style={{

@@ -211,7 +211,7 @@ export const torchWavelengths: Wavelength[] = [];
 
 export const torchFeatures: Feature[] = [];
 
-export const torchDetailImages: any[] = [];
+export const torchDetailImages: string[] = [];
 
 export const torchHowToUse: string[] = [];
 
