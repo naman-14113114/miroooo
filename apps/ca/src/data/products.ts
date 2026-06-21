@@ -74,9 +74,9 @@ export const storeToothbrush: Product = {
   sku: "MIR-X2-001",
   slug: "miroooo-electric-toothbrush-x2",
   template: "mask",
-  name: "Miroooo Electric Toothbrush X2",
-  heroTitle: "Miroooo Electric",
-  heroEmphasis: "Toothbrush X2",
+  name: "Miroooo X2",
+  heroTitle: "Miroooo",
+  heroEmphasis: "X2",
   shortDescription:
     "32,000 sonic vibrations per minute. 3 brushing modes. 60-day battery life. IPX7 waterproof. Travel-ready.",
   description:
