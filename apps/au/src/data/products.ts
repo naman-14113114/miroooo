@@ -7,6 +7,7 @@ import { market, type StoreCurrency } from "@/lib/market";
 import {
   faqs,
   type FAQItem,
+  type Wavelength,
 } from "./productSections";
 
 export type ProductGift = {
@@ -58,7 +59,7 @@ export type Product = {
   keyBenefits?: string[];
   differentiators?: string[];
   faqs: FAQItem[];
-  wavelengths?: unknown[];
+  wavelengths?: Wavelength[];
   badges: string[];
 };
 
